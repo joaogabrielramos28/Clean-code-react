@@ -5,6 +5,8 @@
   "author": "joaoramos28 <˜joaogabrielramos28@outlook.com˜>",
   "license": "MIT",
   "devDependencies": {
-    "git-commit-msg-linter": "^4.1.3"
+    "@types/node": "^18.7.10",
+    "git-commit-msg-linter": "^4.1.3",
+    "typescript": "^4.7.4"
   }
 }
